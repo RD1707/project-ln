@@ -1,2 +1,2 @@
 run:
-	python src/i-love-u.py "Sabrina"
+	python src/i-love-u.py "Manu"
